@@ -1,0 +1,25 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "Testes usando Karma e Jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Paulo",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.6.2",
+    "angular-mocks": "^1.6.2",
+    "angular-route": "^1.6.2",
+    "angular-ui-router": "^0.4.2",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.4.1",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-spec-reporter": "0.0.26"
+  }
+}
