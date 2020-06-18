@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "angular": "^1.7.8",
+    "angular": "^1.8.0",
     "angular-mocks": "^1.7.8",
     "angular-ui-router": "^1.0.22",
     "jasmine-core": "^3.4.0",
